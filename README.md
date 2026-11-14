@@ -51,5 +51,5 @@ conda run -n LogicalRelationshipNetworks python -X utf8 -m methods.generation.pr
 conda run -n LogicalRelationshipNetworks python -X utf8 -m methods.generation.baselines.citation_network__deepseek_official__deepseek_v4_flash.run run-topic --topic "信息素养"
 ```
 
-These commands make model calls. The supplied workbooks identify the exact pairwise outcomes used for the published analyses.
+These commands make model calls. The supplied workbooks identify the pairwise outcomes used in the manuscript's analyses.
 
