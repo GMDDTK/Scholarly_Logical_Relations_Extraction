@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+tmp/
+results/
+data/processed/
+data/论文/
+data/参考文献/
+data/题录/
+

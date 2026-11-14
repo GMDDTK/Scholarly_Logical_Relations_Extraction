@@ -1,0 +1,10 @@
+{
+  "name": "Apache ECharts",
+  "version": "6.1.0",
+  "source": "https://registry.npmjs.org/echarts/-/echarts-6.1.0.tgz",
+  "package_sha256": "681aff88cc1038c3fa941a3a53d1b177a52250b05335efc607d6105ae13be481",
+  "runtime_file": "echarts.min.js",
+  "runtime_sha256": "b66b25aeb4df84e33199dc21694014d336d222cbd9deb0e5a7c14bd6aa0d0fd0",
+  "license": "Apache-2.0",
+  "license_file": "ECHARTS_LICENSE.txt"
+}

@@ -1,0 +1,19 @@
+name: LogicalRelationshipNetworks
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - poppler
+  - pydantic=2
+  - pypdf
+  - pytest
+  - python-dotenv
+  - jiter=0.15
+  - openpyxl=3.1
+  - networkx=3.6
+  - matplotlib-base
+  - pip:
+      - docling==2.115.0
+      - openai==2.48.0
+      - pymupdf4llm==1.28.0

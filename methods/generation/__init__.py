@@ -1,0 +1,2 @@
+"""Formal generation method implementations."""
+
